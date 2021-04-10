@@ -1,0 +1,13 @@
+.smdn-pagination-footer{
+    color: white;
+    background-color: rgb(69, 88, 97);
+}
+.smdn-pagination-footer .button-cells {
+  text-align: center !important;
+}
+.smdn-pagination-footer .button-cells form:first-child input{
+
+}
+.pagination-button{
+    margin-left: 10px !important;
+}
